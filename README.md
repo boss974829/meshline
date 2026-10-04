@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://htmlpreview.github.io/?https://github.com/boss974829/meshline/blob/main/docs/index.html">
+    <img src="https://boss974829.github.io/readme/meshline.gif" width="100%" alt="Meshline" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://htmlpreview.github.io/?https://github.com/boss974829/meshline/blob/main/docs/index.html"><strong>Play Meshline →</strong></a>
+</p>
+
 # Meshline
 
 A harbor-city strategy desk. Nine relays. Two benches. Twelve cables.
